@@ -1,0 +1,7 @@
+{
+  "appId": "test-app-c",
+  "eventName": "trx",
+  "entityName": "abc",
+  "description": "system generated fund event",
+  "userName": "solar-app"
+}
